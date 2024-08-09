@@ -15,6 +15,7 @@ This Python script allows you to download videos from YouTube channels using the
 
 - Python 3.6+
 - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) installed (`pip install yt-dlp`)
+- feedparser
 
 ## Installation
 
