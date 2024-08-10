@@ -1,5 +1,3 @@
-# yt-rss-dl
-
 # YouTube RSS Video Downloader
 
 This Python script allows you to download videos from YouTube channels using their RSS feeds. The script organizes the downloaded videos by channel name and year, and names each video using the format `[Upload date] - 'Name' - [Video ID]`.
